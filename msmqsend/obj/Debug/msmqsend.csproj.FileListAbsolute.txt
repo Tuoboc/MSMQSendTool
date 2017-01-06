@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2015\Projects\msmqsend\msmqsend\bin\Debug\msmqsend.exe
+c:\users\administrator\documents\visual studio 2015\Projects\msmqsend\msmqsend\bin\Debug\msmqsend.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\msmqsend\msmqsend\obj\Debug\msmqsend.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\msmqsend\msmqsend\obj\Debug\msmqsend.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\msmqsend\msmqsend\obj\Debug\msmqsend.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\msmqsend\msmqsend\obj\Debug\msmqsend.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\msmqsend\msmqsend\obj\Debug\msmqsend.exe
+c:\users\administrator\documents\visual studio 2015\Projects\msmqsend\msmqsend\obj\Debug\msmqsend.pdb
